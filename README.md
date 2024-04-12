@@ -1,1 +1,1 @@
-# leaflet-challenge
+The USGS aims to visualize earthquake data for educational and informational purposes. The task involves accessing earthquake datasets provided by USGS in JSON format and utilizing Leaflet to create an interactive map. Data markers reflect earthquake magnitude by size and depth by color. Popups provide additional earthquake information. A legend contextualizes the map data. This project aims to enhance public understanding of seismic activity and its impacts on Earth.
